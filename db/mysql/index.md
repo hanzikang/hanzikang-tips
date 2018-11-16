@@ -15,3 +15,8 @@
 	全文索引
 		ALTER TABLE `your_table_name`
 		ADD FULLTEXT your_index_name(your_column_name);
+
+
+
+
+		index 666
